@@ -1,9 +1,8 @@
-[![MATLAB](https://github.com/simkaryote/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml/badge.svg)](https://github.com/simkaryote/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml)
-[![Tests](https://img.shields.io/badge/Tests-Open_Test_Report-blue)](https://simkaryote.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/tests/)
-[![Coverage](https://img.shields.io/badge/Coverage-Open_Code_Coverage_Report-orange)](https://simkaryote.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/coverage/)
+[![MATLAB](https://github.com/ChezJe/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml/badge.svg)](https://github.com/ChezJe/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml)
+[![Tests](https://img.shields.io/badge/Tests-Open_Test_Report-blue)](https://ChezJe.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/tests/)
+[![Coverage](https://img.shields.io/badge/Coverage-Open_Code_Coverage_Report-orange)](https://ChezJe.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/coverage/)
 
 # Generating Tests for Your MATLAB<sup>&reg;</sup> Code Workshop
-
 
 This workshop provides hands-on experience using some of MATLAB's powerful software testing and automation features.
 <br><br>

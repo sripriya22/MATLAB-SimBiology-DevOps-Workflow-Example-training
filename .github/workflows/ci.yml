@@ -55,9 +55,11 @@ jobs:
       # Run the MATLAB build tool to build and test your code
       - name: Run buildtool
         uses: matlab-actions/run-build@v2
-        continue-on-error: true
         with:
           tasks: test
+        continue-on-error: true
+        run: echo "This step will fail" && exit 1
+
 
       # Configure GitHub Pages to accept your artifact uploads
       - name: Setup Pages

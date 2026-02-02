@@ -45,6 +45,9 @@ classdef ConcTimecourseView < handle
             hold(ax,'off');
             lh = legend(ax,{'Drug','Receptor','Complex'},'FontName',obj.FontName);
             lh.Box = 'off';
+
+            ax.XLimitMethod = "padded";
+            ax.YLimitMethod = "padded";
         
             % instantiate listener
             dataListener = event.listener( model, 'DataChanged', ...

@@ -47,7 +47,7 @@ classdef ROTimecourseView < handle
 
                 
             % set limits
-            xlim(ax,'auto');
+            ax.XLimitMethod = "padded";
             ylim(ax,[-5, 105]);
         
             % instantiate listener

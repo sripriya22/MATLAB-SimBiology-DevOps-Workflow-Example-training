@@ -1,15 +1,15 @@
-[![MATLAB](https://github.com/ChezJe/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml/badge.svg)](https://github.com/ChezJe/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml)
+[![MATLAB](https://github.com/ChezJe/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/deploy.yml/badge.svg)](https://github.com/ChezJe/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/deploy.yml)
 [![Tests](https://img.shields.io/badge/Tests-Open_Test_Report-blue)](https://ChezJe.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/tests/)
 [![Coverage](https://img.shields.io/badge/Coverage-Open_Code_Coverage_Report-orange)](https://ChezJe.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/coverage/)
 
-# Generating Tests for Your MATLAB<sup>&reg;</sup> Code Workshop
+# MATLAB<sup>&reg;</sup>/SimBiology<sup>&reg;</sup> DevOps Workflow Example
 
 This workshop provides hands-on experience using some of MATLAB's powerful software testing and automation features.
 <br><br>
 
 ## About the workshop
 This hands-on workshop will guide you through:
-* forking your own copy of the "Generating Tests for Your MATLAB Code Workshop" repository on GitHub
+* forking your own copy of the "MATLAB-SimBiology-DevOps-Workflow-Example" repository on GitHub
 * generating tests using your command history and MATLAB Copilot
 * automatically finding and running existing tests
 * measuring and exploring code coverage metrics for your code
@@ -25,7 +25,5 @@ Step-by-step workshop instructions can be found in:
 * [WorkshopGuide.md](WorkshopGuide.md)<br>or<br>
 * [WorkshopGuide.m](WorkshopGuide.m)
 <br><br>
-
-
 
 Copyright 2025 The MathWorks, Inc.

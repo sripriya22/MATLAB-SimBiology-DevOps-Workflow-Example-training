@@ -172,6 +172,47 @@
                 </Info>
             </File>
         </File>
+        <File Location=".github">
+            <Info/>
+            <DIR_SIGNIFIER Location="1">
+                <Info/>
+            </DIR_SIGNIFIER>
+            <File Location="workflows">
+                <Info/>
+                <DIR_SIGNIFIER Location="1">
+                    <Info/>
+                </DIR_SIGNIFIER>
+                <File Location="ci.yml">
+                    <Info/>
+                </File>
+            </File>
+        </File>
+        <File Location="License.txt">
+            <Info/>
+        </File>
+        <File Location="README.md">
+            <Info/>
+        </File>
+        <File Location="SECURITY.md">
+            <Info/>
+        </File>
+        <File Location="WorkshopGuide.m">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
+        <File Location="WorkshopGuide.md">
+            <Info/>
+        </File>
+        <File Location="WorkshopPresentation.pdf">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="artifact"/>
+                </Category>
+            </Info>
+        </File>
     </Files>
     <Info Location="ProjectData">
         <Info Name="DevOps"/>

@@ -1,4 +1,4 @@
-[![MATLAB](https://github.com/ChezJe/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/deploy.yml/badge.svg)](https://github.com/ChezJe/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/deploy.yml)
+[![MATLAB](https://github.com/ChezJe/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml/badge.svg)](https://github.com/ChezJe/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml)
 [![Tests](https://img.shields.io/badge/Tests-Open_Test_Report-blue)](https://ChezJe.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/tests/)
 [![Coverage](https://img.shields.io/badge/Coverage-Open_Code_Coverage_Report-orange)](https://ChezJe.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/coverage/)
 
